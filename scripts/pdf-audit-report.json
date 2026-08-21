@@ -1,0 +1,14 @@
+{
+  "giftLostIssues": [],
+  "teaIssues": [],
+  "finalResponseIssues": [],
+  "questionAnswerIssues": [],
+  "counts": {
+    "pdfGiftCharacters": 34,
+    "pdfLostCharacters": 33,
+    "pdfTeaCharacters": 34,
+    "pdfQuestionAnswers": 215,
+    "currentCharacters": 34,
+    "currentQuestionAnswers": 215
+  }
+}

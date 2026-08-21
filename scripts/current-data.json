@@ -1,0 +1,5609 @@
+{
+  "characters": [
+    {
+      "name": "Alois",
+      "house": "Church of Seiros",
+      "sourceHouse": "Church of Seiros",
+      "pdfHouse": "Misc",
+      "recruitment": {
+        "class": "Warrior",
+        "availableFrom": "Chapter 11",
+        "requirement": "Need to be Level 15",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Ancient Coin",
+        "Floral Adornment",
+        "Watering Can"
+      ],
+      "lostItems": [
+        "Foreign Old Coin",
+        "Introduction to Magic",
+        "Mysterious Notebook"
+      ],
+      "teas": [
+        "Crescent-Moon Tea",
+        "Honeyed-Fruit Blend"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A place you'd like visit",
+        "A strong battalion",
+        "A word of advice",
+        "Cats",
+        "Children at the market",
+        "Close calls",
+        "Cooking mishaps",
+        "Equipment upkeep",
+        "Exploring the monastery",
+        "Favorite sweets",
+        "First crushes",
+        "Fodlan's future",
+        "Food in the dining hall",
+        "Gardening mishaps",
+        "Gifts you'd like to receive",
+        "Good jokes",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Mighty weapons",
+        "Monastery rules",
+        "Monastery security",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Perfect recipes",
+        "Plans for the future",
+        "School days",
+        "Shareable snacks",
+        "Someone you look up to",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The ideal professor",
+        "The last battle",
+        "The opera",
+        "The view from the bridge",
+        "Things that bother you",
+        "Working hours for guards",
+        "Working together",
+        "You seem well",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "You don't look much like...",
+          "answers": [
+            "Nod",
+            "Commend",
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "There's nothing worse...",
+          "answers": [
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "Ghosts, sailing, spicy foods...",
+          "answers": [
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "You should go fishing...",
+          "answers": [
+            "Laugh",
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Don't forget, if you ever...",
+          "answers": [
+            "Nod",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I've been prattling on and on...",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "The other night, I felt...",
+          "answers": [
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "I'm your big brother Alois!",
+          "answers": [
+            "Nod",
+            "Laugh",
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "When the war's over...",
+          "answers": [
+            "Nod",
+            "Praise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Annette",
+      "house": "Blue Lions",
+      "sourceHouse": "Blue Lions",
+      "pdfHouse": "Blue Lions",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 10 Magic and B in Faith",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Arithmetic Textbook",
+        "Book of Sheet Music",
+        "Stylish Hair Clip"
+      ],
+      "lostItems": [
+        "School of Sorcery Book",
+        "Unfinished Score",
+        "Wax Diptych"
+      ],
+      "teas": [
+        "Sweet-Apple Blend",
+        "Rose Petal Blend",
+        "Almond Blend"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A place you'd like to visit",
+        "A word of advice",
+        "Books you've read recently",
+        "Children at the market",
+        "Close calls",
+        "Cooking mishaps",
+        "Cute monks",
+        "Dining partners",
+        "Dreamy knights",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Fashion",
+        "Favorite sweets",
+        "Food in the dining hall",
+        "Gardening mishaps",
+        "Gifts you'd like to receive",
+        "Guessing someone's age",
+        "Hopes for your future",
+        "I'm counting on you",
+        "Kitchen catastrophes",
+        "Likeable allies",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Perfect recipes",
+        "Plans for the future",
+        "Relaxing at the sauna",
+        "School days",
+        "School uniforms",
+        "Shareable snacks",
+        "Someone you look up to",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The courtyard couple",
+        "The ideal professor",
+        "The ideal relationship",
+        "The last battle",
+        "The library's collection",
+        "The opera",
+        "Things that bother you",
+        "Things you find romantic",
+        "Working together",
+        "You seem different",
+        "You seem well",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "No effort is in vain...",
+          "answers": [
+            "Commend",
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "The only way to clean...",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "Maybe I should have...",
+          "answers": [
+            "Nod",
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "I feel so at ease...",
+          "answers": [
+            "Laugh",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I remember the first...",
+          "answers": [
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "I broke a plate again...",
+          "answers": [
+            "Disagree",
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "There's an equation...",
+          "answers": [
+            "Nod",
+            "Commend",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "The confectioner...",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "When I'm with you...",
+          "answers": [
+            "Laugh",
+            "Blush"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ashe",
+      "house": "Blue Lions",
+      "sourceHouse": "Blue Lions",
+      "pdfHouse": "Blue Lions",
+      "recruitment": {
+        "class": "Commoner",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 15 Charm and C in Lance",
+        "notes": "Unless Edelgard or Dimitri are present, leaves your party once Part 2 begins. Can be recruited again by defeating him in Chapter 15.",
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Ancient Coin",
+        "Exotic Spices",
+        "Legend of Chivalry",
+        "Tasty Baked Treat"
+      ],
+      "lostItems": [
+        "Bundle of Herbs",
+        "Evil-Repelling Amulet",
+        "Moon Knight's Tale"
+      ],
+      "teas": [
+        "Mint Leaves",
+        "Angelica Tea"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A place you'd like to visit",
+        "A strong battalion",
+        "A word of advice",
+        "Being the perfect knight",
+        "Books you've read recently",
+        "Cats",
+        "Children at the market",
+        "Close calls",
+        "Dreamy knights",
+        "Equipment upkeep",
+        "Favorite sweets",
+        "Gardening mishaps",
+        "Gifts you'd like to receive",
+        "I'm counting on you",
+        "Monastery security",
+        "Past laughs",
+        "Perfect recipes",
+        "Plans for the future",
+        "School days",
+        "Shareable snacks",
+        "Someone you look up to",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The existence of Crests",
+        "The ideal professor",
+        "The last battle",
+        "The library's collection",
+        "Things that bother you",
+        "Working hours for guards",
+        "Working together",
+        "You seem well",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "I still have a lot...",
+          "answers": [
+            "Disagree",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Have you ever seen...",
+          "answers": [
+            "Disagree",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I'm good with children...",
+          "answers": [
+            "Laugh",
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "It's nice in here",
+          "answers": [
+            "Laugh",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "The years I had...",
+          "answers": [
+            "Nod",
+            "Sigh",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I'm confident in...",
+          "answers": [
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "I get letters from...",
+          "answers": [
+            "Laugh",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Time flies when...",
+          "answers": [
+            "Nod",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "A lot's happened...",
+          "answers": [
+            "Nod",
+            "Commend"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bernadetta",
+      "house": "Black Eagles",
+      "sourceHouse": "Black Eagles",
+      "pdfHouse": "Black Eagles",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 20 Strength and C in Bow",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Armored Bear Stuffy",
+        "Book of Sheet Music",
+        "Dapper Handkerchief",
+        "Landscape Painting",
+        "Watering Can"
+      ],
+      "lostItems": [
+        "Hedgehog Case",
+        "Needle and Thread",
+        "Still-Life Picture"
+      ],
+      "teas": [
+        "Albinean Berry Blend",
+        "Honeyed-Fruit Blend"
+      ],
+      "topics": [
+        "A place you'd like to visit",
+        "A word of advice",
+        "Books you've read recently",
+        "Cats",
+        "Children at the market",
+        "Close calls",
+        "Cooking mishaps",
+        "Cute monks",
+        "Exploring the monastery",
+        "Fashion",
+        "Favorite sweets",
+        "Food in the dining hall",
+        "Gifts you'd like to receive",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Insectivorous plants",
+        "Likable allies",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Perfect recipes",
+        "Plans for the future",
+        "School days",
+        "School uniforms",
+        "Shareable snacks",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The courtyard couple",
+        "The ideal relationship",
+        "The last battle",
+        "The library's collection",
+        "The view from the bridge",
+        "Things that bother you",
+        "Things you find romantic",
+        "You seem different",
+        "You seem well",
+        "You're doing great work"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "My mother works...",
+          "answers": [
+            "Laugh",
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "Please don't eavesdrop...",
+          "answers": [
+            "Nod",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I was worried you...",
+          "answers": [
+            "Admonish"
+          ]
+        },
+        {
+          "prompt": "If two people decide...",
+          "answers": [
+            "Laugh",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "I like to hide out...",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "It's relaxing here!",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "You're spoiling me",
+          "answers": [
+            "Admonish",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "My room at the monastery...",
+          "answers": [
+            "Laugh",
+            "Disagree",
+            "Admonish"
+          ]
+        },
+        {
+          "prompt": "The room feels a little...",
+          "answers": [
+            "Laugh",
+            "Admonish"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Caspar",
+      "house": "Black Eagles",
+      "sourceHouse": "Black Eagles",
+      "pdfHouse": "Black Eagles",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 10 Strength and C in Brawling",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Smoked Meat",
+        "Training Weight",
+        "Whetstone"
+      ],
+      "lostItems": [
+        "Grounding Charm",
+        "Tattered Overcoat",
+        "Thunderbrand Replica"
+      ],
+      "teas": [
+        "Ginger Tea"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A place you'd like to visit",
+        "A strong battalion",
+        "A word of advice",
+        "Cats",
+        "Children at the market",
+        "Classes you might enjoy",
+        "Close Calls",
+        "Cooking mishaps",
+        "Dreamy knights",
+        "Equipment upkeep",
+        "Exploring the monastery",
+        "Food in the dining hall",
+        "Gardening mishaps",
+        "Hopes for your future",
+        "I'm counting on you",
+        "Methods for growing taller",
+        "Mighty weapons",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Perfect recipes",
+        "Plans for the future",
+        "Potential training partners",
+        "Relaxing at the sauna",
+        "School days",
+        "Shareable snacks",
+        "Someone you look up to",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The last battle",
+        "The view from the bridge",
+        "Things that bother you",
+        "Working hours for guards",
+        "Working together",
+        "You seem well",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "Hey, are you getting...",
+          "answers": [
+            "Laugh",
+            "Sigh"
+          ]
+        },
+        {
+          "prompt": "I'm gonna keep training...",
+          "answers": [
+            "Disagree",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I wanna go wild...",
+          "answers": [
+            "Admonish",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "I usually don't...",
+          "answers": [
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "What is justice...",
+          "answers": [
+            "Commend",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "Who was that guy?",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "They say hard work...",
+          "answers": [
+            "Commend",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I really love...",
+          "answers": [
+            "Nod",
+            "Laugh",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I'm always gonna...",
+          "answers": [
+            "Laugh",
+            "Commend",
+            "Praise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Catherine",
+      "house": "Church of Seiros",
+      "sourceHouse": "Church of Seiros",
+      "pdfHouse": "Misc",
+      "recruitment": {
+        "class": "Swordmaster",
+        "availableFrom": "Chapter 4",
+        "requirement": "Need to be Level 15",
+        "notes": "If leading the Black Eagles, cannot be recruited until Chapter 12, after [spoiler].",
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Blue Cheese",
+        "Legend of Chivalry",
+        "Training Weight",
+        "Whetstone"
+      ],
+      "lostItems": [
+        "Badge of Graduation",
+        "Letter to Rhea",
+        "Weathered Cloak"
+      ],
+      "teas": [
+        "Rose Petal Blend"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A strong battalion",
+        "A word of advice",
+        "Academy memories",
+        "Capable comrades",
+        "Classes you might enjoy",
+        "Close calls",
+        "Cooking mishaps",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Food in the dining hall",
+        "Gardening mishaps",
+        "Hopes for your future",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Likable allies",
+        "Mighty weapons",
+        "Monastery security",
+        "Our first meeting",
+        "Past laughs",
+        "Potential training partners",
+        "School days",
+        "Shareable snacks",
+        "Someone you look up to",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The existence of Crests",
+        "The ideal relationship",
+        "The last battle",
+        "Working hours for guards",
+        "Working together",
+        "You seem well",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "I hear your nickname...",
+          "answers": [
+            "Disagree",
+            "Sip",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I'm always watching you...",
+          "answers": [
+            "Nod",
+            "Sigh"
+          ]
+        },
+        {
+          "prompt": "You know war strategy...",
+          "answers": [
+            "Admonish",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I'm not going to hurt you",
+          "answers": [
+            "Sigh",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I'm a little restless",
+          "answers": [
+            "Disagree",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "You look calm, as usual",
+          "answers": [
+            "Admonish",
+            "Sip",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I have zero desire to go...",
+          "answers": [
+            "Nod",
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "We should train together",
+          "answers": [
+            "Laugh",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "You and I both have sword",
+          "answers": [
+            "Nod",
+            "Commend",
+            "Praise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Claude",
+      "house": "Golden Deer",
+      "sourceHouse": "Golden Deer",
+      "pdfHouse": "Golden Deer",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "-",
+        "requirement": "Cannot be recruited",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Board Game",
+        "Book of Crest Designs",
+        "Exotic Spices",
+        "Riding Boots"
+      ],
+      "lostItems": [
+        "Board Game Piece",
+        "Leather Bow Sheath",
+        "Mild Stomach Poison"
+      ],
+      "teas": [
+        "Almyran Pine Needles",
+        "Chamomile"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A place you'd like to visit",
+        "A strong battalion",
+        "A word of advice",
+        "Books you've read recently",
+        "Capable comrades",
+        "Celebrations",
+        "Children at the market",
+        "Classes you might enjoy",
+        "Close calls",
+        "Equipment upkeep",
+        "Evaluating Allies",
+        "Exploring in the monastery",
+        "Fodlan's future",
+        "Food in the dining hall",
+        "Gardening mishaps",
+        "Gifts you'd like to receive",
+        "Guessing someone's age",
+        "Hopes for your future",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Likable allies",
+        "Mighty weapons",
+        "Monastery weapons",
+        "Monastery security",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Perfect recipes",
+        "Plans for the future",
+        "Reliable allies",
+        "School days",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The existence of Crests",
+        "The ideal professor",
+        "The last battle",
+        "The library's collection",
+        "Things that bother you",
+        "Working together",
+        "You seem different",
+        "You seem well",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "You're such a mystery",
+          "answers": [
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "I want to know more...",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "Do you really have...",
+          "answers": [
+            "Disagree",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I feel like we've known...",
+          "answers": [
+            "Laugh",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "You're not like the...",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "There are too many...",
+          "answers": [
+            "Nod",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I'll take you to my...",
+          "answers": [
+            "Nod",
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "By the way...",
+          "answers": [
+            "Laugh",
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "You've become quite...",
+          "answers": [
+            "Nod",
+            "Laugh",
+            "Blush"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cyril",
+      "house": "Church of Seiros",
+      "sourceHouse": "Church of Seiros",
+      "pdfHouse": "Misc",
+      "recruitment": {
+        "class": "Commoner",
+        "availableFrom": "Chapter 5",
+        "requirement": "Need to be Level 10",
+        "notes": "If leading the Black Eagles, cannot be recruited until Chapter 12, after [spoiler].",
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Hunting Dagger",
+        "Smoked Meat",
+        "Watering Can"
+      ],
+      "lostItems": [
+        "Old Cleaning Cloth",
+        "Portrait of Rhea",
+        "Well-Used Hatchet"
+      ],
+      "teas": [
+        "Almyran Pine Needles"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "Cats",
+        "Children at the market",
+        "Classes you might enjoy",
+        "Close calls",
+        "Cute monks",
+        "Equipment upkeep",
+        "Exploring the monastery",
+        "Favorite sweets",
+        "Food in the dining hall",
+        "Gardening mishaps",
+        "Gifts you'd like to receive",
+        "Guessing someone's age",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Lady Rhea",
+        "Likable allies",
+        "Monastery security",
+        "Overcoming weaknesses",
+        "Perfect recipes",
+        "Shareable snacks",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The view from the bridge",
+        "Things that bother you",
+        "Working hours for guards",
+        "You seem different",
+        "You seem well",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "Lady Rhea sure seems to like...",
+          "answers": [
+            "Nod",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "If I got kicked out...",
+          "answers": [
+            "Commend",
+            "Disagree",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I like working",
+          "answers": [
+            "Commend",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "If there's anything 'bout...",
+          "answers": [
+            "Nod",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I'm the best at cleaning",
+          "answers": [
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "Even if the goddess really does...",
+          "answers": [
+            "Disagree",
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I think you're an amazing person...",
+          "answers": [
+            "Nod",
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "I'm real busy all the time...",
+          "answers": [
+            "Laugh",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I'm getting sleepy...",
+          "answers": [
+            "Nod",
+            "Laugh"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dedue",
+      "house": "Blue Lions",
+      "sourceHouse": "Blue Lions",
+      "pdfHouse": "Blue Lions",
+      "recruitment": {
+        "class": "Commoner",
+        "availableFrom": "-",
+        "requirement": "Cannot be recruited",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Exotic Spices",
+        "Floral Adornment",
+        "Watering Can"
+      ],
+      "lostItems": [
+        "Gardening Shears",
+        "Gold Earring",
+        "Iron Cooking Pot"
+      ],
+      "teas": [
+        "Cinnamon Blend",
+        "Four-Spice Blend",
+        "Ginger Tea"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A strong battalion",
+        "A word of advice",
+        "Capable of comrades",
+        "Cooking mishaps",
+        "Dimitri",
+        "Equipment upkeep",
+        "Exploring the monastery",
+        "Favorite sweets",
+        "Fodlan's future",
+        "Food in the dining hall",
+        "Gardening mishaps",
+        "Gifts you'd like to receive",
+        "I'm counting on you",
+        "Monastery security",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Perfect recipes",
+        "Potential training partners",
+        "Reliable allies",
+        "Shareable snacks",
+        "Someone you look up to",
+        "Strange fish in the pond",
+        "Thanks for everything",
+        "The last battle",
+        "Working hours for guards",
+        "Working together",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "Was there something...",
+          "answers": [
+            "Nod",
+            "Sip",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I do not like...",
+          "answers": [
+            "Disagree",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I am the sword...",
+          "answers": [
+            "Commend",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Should I have...",
+          "answers": [
+            "Nod",
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "This life was given...",
+          "answers": [
+            "Commend",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "The flowers...",
+          "answers": [
+            "Nod",
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "I feel comfortable...",
+          "answers": [
+            "Laugh",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Next time, you...",
+          "answers": [
+            "Nod",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Long ago...",
+          "answers": [
+            "Chat",
+            "Praise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dimitri",
+      "house": "Blue Lions",
+      "sourceHouse": "Blue Lions",
+      "pdfHouse": "Blue Lions",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "-",
+        "requirement": "Cannot be recruited",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Ceremonial Sword",
+        "Riding Boots",
+        "Training Weight",
+        "Whetstone"
+      ],
+      "lostItems": [
+        "Black Leather Gloves",
+        "Dulled Longsword",
+        "Training Logbook"
+      ],
+      "teas": [
+        "Chamomile"
+      ],
+      "topics": [
+        "A new gambit",
+        "A place you'd like to visit",
+        "A strong battalion",
+        "A word of advice",
+        "Books you've read recently",
+        "Children at the market",
+        "Close calls",
+        "Cooking mishaps",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Fodlan's future",
+        "I'm counting on you",
+        "Mighty weapons",
+        "Monastery rules",
+        "Monastery security",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Potential training partners",
+        "Reliable allies",
+        "School days",
+        "Someone you look up to",
+        "Sturdy weapons",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The ideal professor",
+        "The last battle",
+        "The library collection",
+        "The view from the bridge",
+        "Things that bother you",
+        "Working hours for guards",
+        "Working together",
+        "You seem well",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "Please join me...",
+          "answers": [
+            "Nod",
+            "Disagree",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I cannot tell you...",
+          "answers": [
+            "Laugh",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I apologize for troubling...",
+          "answers": [
+            "Nod",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Perhaps because...",
+          "answers": [
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "When I feel down...",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "I do my training...",
+          "answers": [
+            "Nod",
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "You really helped me...",
+          "answers": [
+            "Disagree",
+            "Blush",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I would invite you...",
+          "answers": [
+            "Laugh",
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "These last five years...",
+          "answers": [
+            "Chat",
+            "Praise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dorothea",
+      "house": "Black Eagles",
+      "sourceHouse": "Black Eagles",
+      "pdfHouse": "Black Eagles",
+      "recruitment": {
+        "class": "Commoner",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 25 Charm and B in Authority",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Book of Sheet Music",
+        "Gemstone Beads",
+        "Stylish Hair Clip"
+      ],
+      "lostItems": [
+        "Lovely Comb",
+        "Silver Brooch",
+        "Songstress Poster"
+      ],
+      "teas": [
+        "Sweet-Apple Blend",
+        "Albinean Berry Blend"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "Books you've read recently",
+        "Close calls",
+        "Cute monks",
+        "Dining partners",
+        "Dreamy knights",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Fashion",
+        "First crushes",
+        "Gifts you'd like to receive",
+        "Heart-racing memories",
+        "Hopes for your future",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Likable allies",
+        "Monastery rules",
+        "Monastery security",
+        "Our first meeting",
+        "Past laughs",
+        "Plans for the future",
+        "Potential training partners",
+        "Relaxing at the sauna",
+        "School days",
+        "School uniforms",
+        "Someone you look up to",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The courtyard couple",
+        "The ideal relationship",
+        "The melody of words",
+        "The opera",
+        "Things that bother you",
+        "Things you find romantic",
+        "Working hours for guards",
+        "Working together",
+        "You seem different",
+        "You seem well",
+        "You're doing great work"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "More nobles than...",
+          "answers": [
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "I am not really...",
+          "answers": [
+            "Sigh",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "My ideal partner...",
+          "answers": [
+            "Blush",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "So, you don't have...",
+          "answers": [
+            "Disagree",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "You're such an open...",
+          "answers": [
+            "Laugh",
+            "Sip",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Why are men so vain?",
+          "answers": [
+            "Laugh",
+            "Chat",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "Don't you think...",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "So many people have died",
+          "answers": [
+            "Nod",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Whatever the future",
+          "answers": [
+            "Blush"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Edelgard",
+      "house": "Black Eagles",
+      "sourceHouse": "Black Eagles",
+      "pdfHouse": "Black Eagles",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "-",
+        "requirement": "Cannot be recruited",
+        "notes": "Leaves your party if you choose to [spoiler] during Chapter 11.",
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Armored Bear Stuffy",
+        "Board Game",
+        "Monarch Studies Book"
+      ],
+      "lostItems": [
+        "Eastern Porcelain",
+        "Time-worn Quill Pen",
+        "White Gloves"
+      ],
+      "teas": [
+        "Bergamot"
+      ],
+      "topics": [
+        "A new gambit",
+        "A strong battalion",
+        "A word of advice",
+        "Books you've read recently",
+        "Capable comrades",
+        "Cats",
+        "Classes you might enjoy",
+        "Close calls",
+        "Dreaming of lazy days",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Favorite sweets",
+        "Fodlan's future",
+        "Gifts you'd like to receive",
+        "Hopes for your future",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Monastery mysteries",
+        "Monastery rules",
+        "Monastery security",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Plans for the future",
+        "Reliable allies",
+        "School days",
+        "School uniforms",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The existence of Crests",
+        "The ideal professor",
+        "The last battle",
+        "The library's collection",
+        "The opera",
+        "The view from the bridge",
+        "Things that bother you",
+        "Things you find romantic",
+        "You seem different",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "It upsets Hubert...",
+          "answers": [
+            "Nod",
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "If I hadn't been born into...",
+          "answers": [
+            "Laugh",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "You're much more meticulous...",
+          "answers": [
+            "Nod",
+            "Disagree",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "A moment of relaxation...",
+          "answers": [
+            "Sip",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Do you remember...",
+          "answers": [
+            "Nod",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "You're always so calm...",
+          "answers": [
+            "Disagree",
+            "Sigh",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "One day, I'll show you...",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "Here I can take a break...",
+          "answers": [
+            "Nod",
+            "Laugh",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I have no intention...",
+          "answers": [
+            "Commend",
+            "Chat",
+            "Praise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Felix",
+      "house": "Blue Lions",
+      "sourceHouse": "Blue Lions",
+      "pdfHouse": "Blue Lions",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 15 Speed and B+ in Sword",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Ceremonial Sword",
+        "Hunting Dagger",
+        "Smoked Meat",
+        "Training Weight"
+      ],
+      "lostItems": [
+        "Black Iron Spur",
+        "Sword Belt Fragment",
+        "Toothed Dagger"
+      ],
+      "teas": [
+        "Almyran Pine Needles",
+        "Four-Spice Blend"
+      ],
+      "topics": [
+        "A new gambit",
+        "A new sword technique",
+        "A strong battalion",
+        "Capable comrades",
+        "Cats",
+        "Children at the market",
+        "Classes you might enjoy",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Food in the dining hall",
+        "I'm counting on you",
+        "Mighty weapons",
+        "Monastery security",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Plans for the future",
+        "Potential training partners",
+        "Reliable allies",
+        "Shareable snacks",
+        "Someone you look up to",
+        "The last battle",
+        "The opera",
+        "Working together",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "Crests, lineage...",
+          "answers": [
+            "Nod",
+            "Commend",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "You intrigue me",
+          "answers": [
+            "Chat",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I'm glad I was born...",
+          "answers": [
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "I know it's important...",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "Some people like...",
+          "answers": [
+            "Nod",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "Spending time with you...",
+          "answers": [
+            "Laugh",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Join me for sword...",
+          "answers": [
+            "Nod",
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "I'm always thinking...",
+          "answers": [
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "Well...",
+          "answers": [
+            "Laugh",
+            "Blush"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ferdinand",
+      "house": "Black Eagles",
+      "sourceHouse": "Black Eagles",
+      "pdfHouse": "Black Eagles",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 10 Dexterity and C in Heavy Armour",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Riding Boots",
+        "Tea Leaves",
+        "Whetstone"
+      ],
+      "lostItems": [
+        "Agricultural Survey",
+        "Bag of Tea Leaves",
+        "Maintenance Oil"
+      ],
+      "teas": [
+        "Almyran Pine Needles",
+        "Southern Fruit Blend",
+        "Seiros Tea"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A strong battalion",
+        "A word of advice",
+        "Capable comrades",
+        "Children at the market",
+        "Classes you might enjoy",
+        "Close calls",
+        "Cooking mishaps",
+        "Cute monks",
+        "Dining Partners",
+        "Dreamy knights",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Fashion",
+        "First crushes",
+        "Fodlan's future",
+        "Food in the dining hall",
+        "Gifts you'd like to receive",
+        "Guessing someone's age",
+        "Heart-racing memories",
+        "Hopes for your future",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Likable allies",
+        "Mighty weapons",
+        "Monastery rules",
+        "Past laughs",
+        "Plans for the future",
+        "Potential training partners",
+        "Relaxing at the sauna",
+        "School days",
+        "School uniforms",
+        "Someone you look up to",
+        "Tell me about yourself",
+        "Thanks for everything",
+        {
+          "text": "The existense of Crests",
+          "searchAliases": [
+            "The existence of Crests"
+          ]
+        },
+        "The ideal professor",
+        "The ideal relationship",
+        "The last battle",
+        "The meaning of nobility",
+        "The opera",
+        "Things that bother you",
+        "Things you find romantic",
+        "Working together",
+        "You seem different",
+        "You seem well",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "You have a way...",
+          "answers": [
+            "Disagree",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Since I was a child...",
+          "answers": [
+            "Laugh",
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "You often hear stories...",
+          "answers": [
+            "Nod",
+            "Commend",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "When I am unhappy...",
+          "answers": [
+            "Sigh",
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "You treat everyone the same...",
+          "answers": [
+            "Commend",
+            "Blush",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I am extremely versatile...",
+          "answers": [
+            "Laugh",
+            "Disagree",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I suppose the Sword...",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "You will always...",
+          "answers": [
+            "Sip",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Hmm. It can be...",
+          "answers": [
+            "Nod",
+            "Laugh"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flayn",
+      "house": "Church of Seiros",
+      "sourceHouse": "Church of Seiros",
+      "pdfHouse": "Misc",
+      "recruitment": {
+        "class": "Priest",
+        "availableFrom": "Chapter 7",
+        "requirement": "Joins automatically",
+        "notes": "Leaves your party if you choose to [spoiler] during Chapter 11.",
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Armored Bear Stuffy",
+        "Dapper Handkerchief",
+        "Stylish Hair Clip",
+        "Tasty Baked Treat"
+      ],
+      "lostItems": [
+        "Antique Clasp",
+        "Dusty Book of Fables",
+        "Old Map of Enbarr"
+      ],
+      "teas": [
+        "Sweet-Apple Blend",
+        "Crescent-Moon Tea",
+        "Almond Blend"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A word of advice",
+        "Books you've read recently",
+        "Cats",
+        "Children at the market",
+        "Close calls",
+        "Cooking mishaps",
+        "Cute monks",
+        "Dining partners",
+        "Dreamy knights",
+        "Favorite sweets",
+        "First crushes",
+        "Fish and the sea",
+        "Fodlan's future",
+        "Gardening mishaps",
+        "Gifts you'd like to receive",
+        "Guessing someone's age",
+        "Heart-racing memories",
+        "Hopes for your future",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Likable allies",
+        "Our first meeting",
+        "Past laughs",
+        "Perfect recipes",
+        "Plans for the future",
+        "Potential training partners",
+        "School days",
+        "Shareable snacks",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The courtyard couple",
+        "The ideal professor",
+        "The ideal relationship",
+        "The library's collection",
+        "The opera",
+        "The view from the bridge",
+        "Things that bother you",
+        "Things you find romantic",
+        "Working together",
+        "You seem well",
+        "You're doing great work"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "Lively places are my favorite...",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "I desire to see the ocean...",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "You are an intersting person...",
+          "answers": [
+            "Nod",
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "Have you any idea...",
+          "answers": [
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "Whenever I look at you...",
+          "answers": [
+            "Laugh",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I have a fear of sleeping...",
+          "answers": [
+            "Disagree",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I was born in Enbarr...",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "You and I are of a rare breed...",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "Even if I fall asleep...",
+          "answers": [
+            "Nod",
+            "Laugh",
+            "Blush"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gilbert",
+      "house": "Church of Seiros",
+      "sourceHouse": "Church of Seiros",
+      "pdfHouse": "Misc",
+      "recruitment": {
+        "class": "Fortress Knight",
+        "availableFrom": "Chapter 13",
+        "requirement": "Automatically from Turn 3",
+        "notes": "Blue Lions only.",
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Ceremonial Sword",
+        "Fishing Float",
+        "Goddess Statue"
+      ],
+      "lostItems": [
+        "Carving Hammer",
+        "Noseless Puppet",
+        "Silver Necklace"
+      ],
+      "teas": [
+        "Almond Blend",
+        "Lavender Blend"
+      ],
+      "topics": [
+        "A new gambit",
+        "A place you'd like to visit",
+        "A strong battalion",
+        "A word of advice",
+        "Books you've read recently",
+        "Capable comrades",
+        "Children at the market",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Favorite sweets",
+        "Fodlan's future",
+        "I'm counting on you",
+        "Mighty weapons",
+        "Monastery rules",
+        "Monastery security",
+        "Overcoming weaknesses",
+        "Perfect recipes",
+        {
+          "text": "Potential traiing partners",
+          "searchAliases": [
+            "Potential training partners"
+          ]
+        },
+        "Reliable allies",
+        "Shareable snacks",
+        "Someone you look up to",
+        "Strange fish in the pond",
+        "Thanks for everything",
+        "The ideal professor",
+        "The last battle",
+        "The library's collection",
+        "Wood carving",
+        "Working hours for guards",
+        "Working together",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "Walking first thing in the morning",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "I enjoy a bit of fishing",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "Spear, sword, archery...",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "I've served the royal family...",
+          "answers": [
+            "Nod",
+            "Sigh"
+          ]
+        },
+        {
+          "prompt": "I am an unforgivable sinner",
+          "answers": [
+            "Disagree",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "No judge, not even the goddess...",
+          "answers": [
+            "Sigh",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "It's true that strength alone...",
+          "answers": [
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "The Holy Kingdom of Faerghus...",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "I am sorry, but relaxing is...",
+          "answers": [
+            "Laugh",
+            "Praise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hanneman",
+      "house": "Church of Seiros",
+      "sourceHouse": "Church of Seiros",
+      "pdfHouse": "Misc",
+      "recruitment": {
+        "class": "Mage",
+        "availableFrom": "Chapter 8",
+        "requirement": "Need to be Level 15",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Arithmetic Textbook",
+        "Book of Crest Designs",
+        "Dapper Handkerchief",
+        "Tea Leaves"
+      ],
+      "lostItems": [
+        "Hammer and Chisel",
+        "Lens Cloth",
+        "Sketch of a Sigil"
+      ],
+      "teas": [
+        "Bergamot",
+        "Sweet-Apple Blend",
+        "Honeyed-Fruit Blend",
+        "Cinnamon Blend"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A place you'd like to visit",
+        "A word of advice",
+        "Books you've read recently",
+        "Capable comrades",
+        "Cooking mishaps",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Fashion",
+        "Favorite sweets",
+        "Fodlan's future",
+        "Food in the dining hall",
+        "Gifts you'd like to receive",
+        "Heart-racing memories",
+        "Hopes for your future",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Likable allies",
+        "Monastery mysteries",
+        "Monastery rules",
+        "Monastery security",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Plans for the future",
+        "Relaxing at the sauna",
+        "School days",
+        "Shareable snacks",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The existence of Crests",
+        "The ideal professor",
+        "The last battle",
+        "The library's collection",
+        "Things that bother you",
+        "You seem well",
+        "You're doing great work",
+        "Your research"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "The \"Ashen Demon\"...",
+          "answers": [
+            "Disagree",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "Since I have never found out...",
+          "answers": [
+            "Chat",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Why don't you come by...",
+          "answers": [
+            "Commend",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "The Crest of Flames...",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "It was my own choice to leave...",
+          "answers": [
+            "Commend",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "The monastery holds...",
+          "answers": [
+            "Commend",
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "All of my hard work...",
+          "answers": [
+            "Sigh",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I never can stop talking...",
+          "answers": [
+            "Laugh",
+            "Admonish"
+          ]
+        },
+        {
+          "prompt": "Can't be helped...",
+          "answers": [
+            "Laugh",
+            "Admonish",
+            "Sip"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hilda",
+      "house": "Golden Deer",
+      "sourceHouse": "Golden Deer",
+      "pdfHouse": "Golden Deer",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 30 Charm and C in Axe",
+        "notes": "If leading the Black Eagles, cannot be recruited until Chapter 12, after [spoiler].",
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Armored Bear Stuffy",
+        "Book of Sheet Music",
+        "Dapper Handkerchief",
+        "Gemstone Beads",
+        "Stylish Hair Clip"
+      ],
+      "lostItems": [
+        "Handmade Hair Clip",
+        "Spotless Bandage",
+        "Used Bottle of Perfume"
+      ],
+      "teas": [
+        "Albinean Berry Blend",
+        "Southern Fruit Blend",
+        "Rose Petal Blend",
+        "Mint Leaves"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A place you'd like to visit",
+        "Classes you might enjoy",
+        "Close calls",
+        "Cute accessories",
+        "Cute monks",
+        "Dining partners",
+        "Dreamy knights",
+        "Evaluating allies",
+        "Fashion",
+        "Favorite sweets",
+        "First crushes",
+        "Food in the dining halls",
+        "Gardening mishaps",
+        "Gifts you'd like to receive",
+        "Guessing someone's age",
+        "Heart-racing memories",
+        "Hopes for your future",
+        "I heard some gossip",
+        "Likable allies",
+        "Our first meeting",
+        "Past laughs",
+        "Plans for the future",
+        "Relaxing at the sauna",
+        "Reliable allies",
+        "School days",
+        "School uniforms",
+        "Shareable snacks",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The courtyard couple",
+        "The ideal relationship",
+        "The opera",
+        "Things that bother you",
+        "Things you find romantic",
+        "You seem different",
+        "You seem well",
+        "You're doing great work"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "You know?",
+          "answers": [
+            "Nod",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "Have you ever cried...",
+          "answers": [
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "You don't say much...",
+          "answers": [
+            "Laugh",
+            "Admonish"
+          ]
+        },
+        {
+          "prompt": "My mind keeps drifting...",
+          "answers": [
+            "Nod",
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "No matter what happens...",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "Everyone's so serious...",
+          "answers": [
+            "Nod",
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "We should go on a trip...",
+          "answers": [
+            "Nod",
+            "Laugh",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Your room's so neat!",
+          "answers": [
+            "Nod",
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "I wish I could stay here...",
+          "answers": [
+            "Laugh",
+            "Praise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hubert",
+      "house": "Black Eagles",
+      "sourceHouse": "Black Eagles",
+      "pdfHouse": "Black Eagles",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "-",
+        "requirement": "Cannot be recruited",
+        "notes": "Leaves your party if you choose to [spoiler] during Chapter 11.",
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Board Game",
+        "Coffee Beans",
+        "The History of Fodlan"
+      ],
+      "lostItems": [
+        "Folding Razor",
+        "Hresvelg Treatise",
+        "Noxious Handkerchief"
+      ],
+      "teas": [
+        "Dagda Fruit Blend",
+        "Cinnamon Blend"
+      ],
+      "topics": [
+        "A new gambit",
+        "A place you'd like to visit",
+        "A strong battalion",
+        "Books you've read recently",
+        "Capable comrades",
+        "Close calls",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Fodlan's future",
+        "Guessing someone's age",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Mighty weapons",
+        "Monastery mysteries",
+        "Monastery rules",
+        "Monastery security",
+        "Reliable allies",
+        "Someone you look up to",
+        "Successful plots",
+        "The last battle",
+        "The library's collection",
+        "Working together",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "While I am quite busy...",
+          "answers": [
+            "Sigh",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "The head of House Vestra...",
+          "answers": [
+            "Commend",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Lady Edelgard...",
+          "answers": [
+            "Nod",
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "Most who spend time...",
+          "answers": [
+            "Disagree",
+            "Admonish",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Sometimes your insights...",
+          "answers": [
+            "Disagree",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "House Vestra is one...",
+          "answers": [
+            "Commend",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "As a humble servant...",
+          "answers": [
+            "Disagree",
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "For choosing to walk this path...",
+          "answers": [
+            "Nod",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Sometimes I like to imagine...",
+          "answers": [
+            "Chat",
+            "Blush"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ignatz",
+      "house": "Golden Deer",
+      "sourceHouse": "Golden Deer",
+      "pdfHouse": "Golden Deer",
+      "recruitment": {
+        "class": "Commoner",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 10 Dexterity and B in Authority",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Ancient Coin",
+        "Ceremonial Sword",
+        "Goddess Statue",
+        "Landscape Painting"
+      ],
+      "lostItems": [
+        "Art Book",
+        "Blue Stone",
+        "Letter to the Goddess"
+      ],
+      "teas": [
+        "Dagda Fruit Blend",
+        "Seiros Tea",
+        "Lavender Blend"
+      ],
+      "topics": [
+        "A place you'd like to visit",
+        "A word of advice",
+        "Books you've read recently",
+        "Capable comrades",
+        "Cats",
+        "Children at the market",
+        "Classes you might enjoy",
+        "Close calls",
+        "Cute monks",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "First crushes",
+        "Fodlan's future",
+        "Gardening mishaps",
+        "Gifts you'd like to receive",
+        "Guessing someone's age",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Likable allies",
+        "Mixing pigments",
+        "Monastery mysteries",
+        "Monastery rules",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Plans for the future",
+        "School days",
+        "Someone you look up to",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The courtyard couple",
+        "The library's collection",
+        "The opera",
+        "The view from the bridge",
+        "Things that bother you",
+        "Working together",
+        "You seem different",
+        "You seem well",
+        "You're doing great work"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "I wanna support my family...",
+          "answers": [
+            "Nod",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I think it's good to have a hobby",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "You're so young...",
+          "answers": [
+            "Disagree",
+            "Sip",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I'm realizing that I can...",
+          "answers": [
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "I don't know what I can do",
+          "answers": [
+            "Commend",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "With you and all the friends...",
+          "answers": [
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "Thank you for letting me...",
+          "answers": [
+            "Nod",
+            "Laugh",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Oh, don't mind me",
+          "answers": [
+            "Sip",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I need to keep training",
+          "answers": [
+            "Chat",
+            "Blush",
+            "Praise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ingrid",
+      "house": "Blue Lions",
+      "sourceHouse": "Blue Lions",
+      "pdfHouse": "Blue Lions",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 15 Dexterity and D in Flying",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Legend of Chivalry",
+        "Riding Boots",
+        "Smoked Meat"
+      ],
+      "lostItems": [
+        "Curry Comb",
+        "Jousting Almanac",
+        "Pegasus Horseshoes"
+      ],
+      "teas": [
+        "Mint Leaves",
+        "Chamomile"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A strong battalion",
+        "A word of advice",
+        "Books you've read recently",
+        "Cats",
+        "Classes you might enjoy",
+        "Cooking mishaps",
+        "Dreamy knights",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Favorite sweets",
+        "First crushes",
+        "Fodlan's future",
+        "Food for life",
+        "Food in the dining hall",
+        "Gifts you'd like to receive",
+        "I'm counting on you",
+        "Mighty weapons",
+        "Monastery rules",
+        "Monastery security",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Perfect recipes",
+        "Plans for the future",
+        "Potential training partners",
+        "Reliable allies",
+        "School days",
+        "Shareable snacks",
+        "Someone you look up to",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The existence of Crests",
+        "The ideal professor",
+        "The last battle",
+        "The library's collection",
+        "The view from the bridge",
+        "Things you find romantic",
+        "Working hours for guards",
+        "Working together",
+        "You seem well",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "As a child...",
+          "answers": [
+            "Laugh",
+            "Admonish"
+          ]
+        },
+        {
+          "prompt": "I'm already thinking...",
+          "answers": [
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "It's warm around...",
+          "answers": [
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Being here calms...",
+          "answers": [
+            "Disagree",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I wonder what your...",
+          "answers": [
+            "Laugh",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "When did you start...",
+          "answers": [
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "When I'm here...",
+          "answers": [
+            "Laugh",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Would you like...",
+          "answers": [
+            "Laugh",
+            "Admonish"
+          ]
+        },
+        {
+          "prompt": "Spekaing with you...",
+          "searchAliases": [
+            "Speaking with you..."
+          ],
+          "answers": [
+            "Disagree",
+            "Blush"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leonie",
+      "house": "Golden Deer",
+      "sourceHouse": "Golden Deer",
+      "pdfHouse": "Golden Deer",
+      "recruitment": {
+        "class": "Commoner",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 15 Strength and C in Lance",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Fishing Float",
+        "Hunting Dagger",
+        "Training Weight"
+      ],
+      "lostItems": [
+        "Crude Arrowheads",
+        "Fur Scarf",
+        "Hand Drawn Map"
+      ],
+      "teas": [
+        {
+          "text": "Four-Spive Blend",
+          "searchAliases": [
+            "Four-Spice Blend"
+          ]
+        },
+        "Angelica Tea"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A place you'd like to visit",
+        "A strong battalion",
+        "A word of advice",
+        "Books you've read recently",
+        "Capable comrades",
+        "Children at the market",
+        "Classes you might enjoy",
+        "Close calls",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Fodlan's future",
+        "Food in the dining hall",
+        "Gifts you'd like to receive",
+        "Hopes for your future",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Jeralt",
+        "Mighty weapons",
+        "Monastery mysteries",
+        "Monastery security",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Plans for the future",
+        "Potential training partners",
+        "Reliable allies",
+        "School days",
+        "Shareable snacks",
+        "Someone you look up to",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The ideal professor",
+        "The last battle",
+        "The view from the bridge",
+        "Things that bother you",
+        "Working together",
+        "You seem different",
+        "You seem well",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "Hope you've been keeping...",
+          "answers": [
+            "Nod",
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "I don't care what you think...",
+          "answers": [
+            "Commend",
+            "Admonish"
+          ]
+        },
+        {
+          "prompt": "Don't throw away anything...",
+          "answers": [
+            "Nod",
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "Back home, I always...",
+          "answers": [
+            "Nod",
+            "Sigh",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I'm proud to be the greatest...",
+          "answers": [
+            "Nod",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I feel bad acting out...",
+          "answers": [
+            "Laugh",
+            "Disagree",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "I'll always be here for you...",
+          "answers": [
+            "Laugh",
+            "Disagree",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "Don't worry about what I owe...",
+          "answers": [
+            "Nod",
+            "Commend",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "People always seem to be...",
+          "answers": [
+            "Commend",
+            "Chat",
+            "Praise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Linhardt",
+      "house": "Black Eagles",
+      "sourceHouse": "Black Eagles",
+      "pdfHouse": "Black Eagles",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 10 Magic and C in Reason",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Book of Crest Designs",
+        "Fishing Float",
+        "Tasty Baked Treat"
+      ],
+      "lostItems": [
+        "Animated Bait",
+        "Feather Pillow",
+        "The Saints Revealed"
+      ],
+      "teas": [
+        "Almyran Pine Needles",
+        "Angelica Tea"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A place you'd like to visit",
+        "A word of advice",
+        "Books you've read recently",
+        "Capable comrades",
+        "Cats",
+        "Exploring the monastery",
+        "Favorite sweets",
+        "Gardening mishaps",
+        "Gifts you'd like to receive",
+        "I heard some gossip",
+        "Monastery mysteries",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Plans for the future",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The art of napping",
+        "The existence of Crests",
+        "The library's collection",
+        "The view from the bridge",
+        "Things that bother you",
+        "Working hours for guards"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "You are full of mysteries...",
+          "answers": [
+            "Disagree",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "Being surrounded by all...",
+          "answers": [
+            "Nod",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Crest versus Nurture...",
+          "answers": [
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "I always feel as if I...",
+          "answers": [
+            "Laugh",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Please wake me if...",
+          "answers": [
+            "Admonish",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "They say the Crest's...",
+          "answers": [
+            "Admonish",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "If I don't become a...",
+          "answers": [
+            "Nod",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "You bear the legendary...",
+          "answers": [
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "We should explore ways...",
+          "answers": [
+            "Nod",
+            "Commend",
+            "Chat"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lorenz",
+      "house": "Golden Deer",
+      "sourceHouse": "Golden Deer",
+      "pdfHouse": "Golden Deer",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 20 Charm and C in Reason",
+        "notes": "Unless Edelgard or Claude are present, leaves your party once Part 2 begins. Can be recruited again by defeating him in Chapter 16.",
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Book of Sheet Music",
+        "Floral Adornment",
+        "Tea Leaves"
+      ],
+      "lostItems": [
+        "A Treatise on Etiquette",
+        "Artificial Flower",
+        "Silk Handkerchief"
+      ],
+      "teas": [
+        "Bergamot",
+        "Rose Petal Blend",
+        "Seiros Tea"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A word of advice",
+        "Capable comrades",
+        "Cute monks",
+        "Dining partners",
+        "Dreamy knights",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Fashion",
+        "First crushes",
+        "Fodlan's future",
+        "Gifts you'd like to receive",
+        "Heart-racing memories",
+        "Hopes for your future",
+        "I'm counting on you",
+        "Likable allies",
+        "Monastery rules",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Plans for the future",
+        "Relaxing at the sauna",
+        "Reliable allies",
+        "Roses",
+        "School days",
+        "School uniforms",
+        "Shareable snacks",
+        "Someone you look up to",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The existence of Crests",
+        "The ideal professor",
+        "The ideal relationship",
+        "The opera",
+        "Things that bother you",
+        "Things you find romantic",
+        "Working together",
+        "You seem different",
+        "You seem well",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "A noble's life...",
+          "answers": [
+            "Disagree",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "The rose perfectly...",
+          "answers": [
+            "Nod",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "Do not concern yourself...",
+          "answers": [
+            "Admonish",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "Even a noble needs...",
+          "answers": [
+            "Nod",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I am not mindlessly...",
+          "answers": [
+            "Commend",
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "You are quite an...",
+          "answers": [
+            "Laugh",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Being here helps...",
+          "answers": [
+            "Nod",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I cannot yet speak...",
+          "answers": [
+            "Commend",
+            "Disagree",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I hope it is not...",
+          "answers": [
+            "Nod",
+            "Laugh",
+            "Blush"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lysithea",
+      "house": "Golden Deer",
+      "sourceHouse": "Golden Deer",
+      "pdfHouse": "Golden Deer",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 15 Magic and B in Faith",
+        "notes": "If Edelgard is present, can also be recruited by defeating her in Chapter 14.",
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Arithmetic Textbook",
+        "Armored Bear Stuffy",
+        "Book of Crest Designs",
+        "Tasty Baked Treat"
+      ],
+      "lostItems": [
+        "Encyclopedia of Sweets",
+        "New Bottle of Perfume",
+        "Princess Doll"
+      ],
+      "teas": [
+        "Sweet-Apple Blend",
+        "Southern Fruit Blend",
+        "Crescent-Moon Tea",
+        "Honeyed-Fruit Blend"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A place you'd like to visit",
+        "Books you've read recently",
+        "Capable comrades",
+        "Cats",
+        "Classes you might enjoy",
+        "Close calls",
+        "Cooking mishaps",
+        "Evaluating allies",
+        "Fashion",
+        "Favorite sweets",
+        "Fodlan's future",
+        "Food in the dining hall",
+        "Gifts you'd like to receive",
+        "Hopes for your future",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Likable allies",
+        "Monastery mysteries",
+        "Monastery rules",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Perfect recipes",
+        "Plans for the future",
+        "Relaxing at the sauna",
+        "School days",
+        "School uniforms",
+        "Shareable snacks",
+        "Someone you look up to",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The existence of Crests",
+        "The ideal professor",
+        "The last battle",
+        "The library's collection",
+        "The thrill of sweets",
+        "Working together",
+        "You seem different",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "I know I could stand...",
+          "answers": [
+            "Admonish",
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "One of the few pleasures...",
+          "answers": [
+            "Nod",
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "Do you believe in ghosts...",
+          "answers": [
+            "Laugh",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "If I hadn't met you...",
+          "answers": [
+            "Laugh",
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "It's not in me to put energy...",
+          "answers": [
+            "Admonish",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "Talking to you feels worth...",
+          "answers": [
+            "Laugh",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I wonder what I'd do...",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "If not for Crests...",
+          "answers": [
+            "Sigh",
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I'm exhausted by the all...",
+          "status": "review-needed",
+          "reason": "Likely truncated or garbled source text.",
+          "answers": [
+            "Nod",
+            "Laugh",
+            "Sip"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Manuela",
+      "house": "Church of Seiros",
+      "sourceHouse": "Church of Seiros",
+      "pdfHouse": "Misc",
+      "recruitment": {
+        "class": "Priest",
+        "availableFrom": "Chapter 8",
+        "requirement": "Need to be Level 15",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Blue Cheese",
+        "Book of Sheet Music",
+        "Gemstone Beads",
+        "Goddess Statue"
+      ],
+      "lostItems": [
+        "Clean Dusting Cloth",
+        "Light Purple Veil",
+        "Wellness Herbs"
+      ],
+      "teas": [
+        "Mint Leaves",
+        "Lavender Blend"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A strong battalion",
+        "A word of advice",
+        "Best performance venues",
+        "Children at the market",
+        "Classes you might enjoy",
+        "Close calls",
+        "Cooking mishaps",
+        "Cute monks",
+        "Dining partners",
+        "Dreamy knights",
+        "Exploring the monastery",
+        "Fashion",
+        "Favorite sweets",
+        "First crushes",
+        "Food in the dining hall",
+        "Gardening mishaps",
+        "Gifts you'd like to receive",
+        "Guessing someone's age",
+        "Heart-racing memories",
+        "Hopes for your future",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Likable allies",
+        "Monastery security",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Perfect recipes",
+        "Plans for the future",
+        "Relaxing at the sauna",
+        "Reliable allies",
+        "School days",
+        "Shareable snacks",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The courtyard couple",
+        "The ideal professor",
+        "The ideal relationship",
+        "The opera",
+        "Things that bother you",
+        "Things you find romantic",
+        "Working hours for guards",
+        "Working together",
+        "You seem well"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "There's no alcohol in here...",
+          "answers": [
+            "Admonish",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "Am I that terrible of a woman...",
+          "answers": [
+            "Disagree",
+            "Admonish"
+          ]
+        },
+        {
+          "prompt": "Who are you really?",
+          "answers": [
+            "Sigh",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "What should I do to find...",
+          "answers": [
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "You think I complain too much...",
+          "answers": [
+            "Disagree",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Sometimes I think back...",
+          "answers": [
+            "Nod",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I must thank you for spending...",
+          "answers": [
+            "Laugh",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Your room is so nice and clean",
+          "answers": [
+            "Disagree",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "You are always so kind to me",
+          "answers": [
+            "Sip",
+            "Blush"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marianne",
+      "house": "Golden Deer",
+      "sourceHouse": "Golden Deer",
+      "pdfHouse": "Golden Deer",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 10 Magic and C in Riding",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Armored Bear Stuffy",
+        "Dapper Handkerchief",
+        "Floral Adornment"
+      ],
+      "lostItems": [
+        "Bag of Seeds",
+        "Confessional Letter",
+        "How to be Tidy"
+      ],
+      "teas": [
+        "Dagda Fruit Blend",
+        "Cinnamon Blend",
+        "Lavender Blend"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A word of advice",
+        "Books you've read recently",
+        "Cats",
+        "Children at the market",
+        "Close calls",
+        "Exploring the monastery",
+        "Fodlan's future",
+        "Forest birds",
+        "Gardening mishaps",
+        "Hopes for your future",
+        "I heard some gossip",
+        "Likable allies",
+        "Monastery mysteries",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Plans for the future",
+        "Relaxing at the sauna",
+        "School days",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The existence of Crests",
+        "The ideal professor",
+        "The last battle",
+        "The library's collection",
+        "The view from the bridge",
+        "You seem different"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "Spending time with me...",
+          "answers": [
+            "Disagree",
+            "Admonish"
+          ]
+        },
+        {
+          "prompt": "I-I'm sorry...",
+          "answers": [
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "It's a waste to spend...",
+          "answers": [
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "You'll be met with misfortune...",
+          "answers": [
+            "Disagree",
+            "Admonish",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "You don't seem to be...",
+          "answers": [
+            "Nod",
+            "Sigh"
+          ]
+        },
+        {
+          "prompt": "It's not like I can go home...",
+          "answers": [
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Thanks to you...",
+          "answers": [
+            "Nod",
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "I'm all right now...",
+          "answers": [
+            "Nod",
+            "Laugh",
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "I hope you never leave...",
+          "answers": [
+            "Laugh",
+            "Blush"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mercedes",
+      "house": "Blue Lions",
+      "sourceHouse": "Blue Lions",
+      "pdfHouse": "Blue Lions",
+      "recruitment": {
+        "class": "Commoner",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 15 Magic and C in Bow",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Armored Bear Stuffy",
+        "Gemstone Beads",
+        "Goddess Statue",
+        "Tasty Baked Treat"
+      ],
+      "lostItems": [
+        "Book of Ghost Stories",
+        "Fruit Preserves",
+        "How to Bake Sweets"
+      ],
+      "teas": [
+        "Albinean Berry Blend",
+        "Southern Fruit Blend",
+        "Crescent-Moon Tea"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A place you'd like to visit",
+        "A word of advice",
+        "Books you've read recently",
+        "Cats",
+        "Children at the market",
+        "Cooking mishaps",
+        "Cute monks",
+        "Dining partners",
+        "Dreamy knights",
+        "Exploring the monastery",
+        "Fashion",
+        "Favorite sweets",
+        "First crushes",
+        "Food in the dining hall",
+        "Gardening mishaps",
+        "Ghost stories",
+        "Gifts you'd like to receive",
+        "Heart-racing memories",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Likable allies",
+        "Monastery rules",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Perfect recipes",
+        "Relaxing at the sauna",
+        "School days",
+        "School uniforms",
+        "Shareable snacks",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The courtyard couple",
+        "The ideal relationship",
+        "The last battle",
+        "The library's collection",
+        "The opera",
+        "Things that bother you",
+        "You seem different",
+        "You're doing great work"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "I baked a cake...",
+          "answers": [
+            "Nod",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "The cathedral is nice...",
+          "answers": [
+            "Disagree",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I'm actually quite...",
+          "answers": [
+            "Nod",
+            "Commend",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I used to live...",
+          "answers": [
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "I should probably write...",
+          "answers": [
+            "Nod",
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "You should really...",
+          "answers": [
+            "Nod",
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "As I continue to grow...",
+          "answers": [
+            "Commend",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Not to be a bother...",
+          "answers": [
+            "Nod",
+            "Sip",
+            "Blush"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Petra",
+      "house": "Black Eagles",
+      "sourceHouse": "Black Eagles",
+      "pdfHouse": "Black Eagles",
+      "recruitment": {
+        "class": "Commoner",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 10 Dexterity and C in Riding",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Exotic Spices",
+        "Hunting Dagger",
+        "Smoked Meat"
+      ],
+      "lostItems": [
+        "Annotated Dictionary",
+        "Exotic Feather",
+        "Small Tanned Hide"
+      ],
+      "teas": [
+        "Four-Spice Blend",
+        "Ginger Tea"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A place you'd like to visit",
+        "A strong battalion",
+        "A word of advice",
+        "Books you've read recently",
+        "Capable comrades",
+        "Cats",
+        "Classes you might enjoy",
+        "Close calls",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Fashion",
+        "Fodlan's future",
+        "Gifts you'd like to receive",
+        "Guessing someone's age",
+        "Heart-racing memories",
+        "Hopes for your future",
+        "I'm counting on you",
+        "Likable allies",
+        "Mighty weapons",
+        "Monastery mysteries",
+        "Monastery rules",
+        "Monastery security",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Plans for the future",
+        "Potential training partners",
+        "Relaxing at the sauna",
+        "School days",
+        "Shareable snacks",
+        "Someone you look up to",
+        "Strange fish in the pond",
+        "Swimming in the ocean",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The ideal relationship",
+        "The last battle",
+        "The library's collection",
+        "The view from the bridge",
+        "Things you find romantic",
+        "Working hours for guards",
+        "Working together",
+        "You seem different",
+        "You seem well",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "If you are having...",
+          "answers": [
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "The ocean is...",
+          "answers": [
+            "Sigh",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Next I will be...",
+          "answers": [
+            "Admonish",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "You are working...",
+          "answers": [
+            "Laugh",
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "You are not remembering...",
+          "answers": [
+            "Sigh",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "One day I am wanting...",
+          "answers": [
+            "Nod",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "It gives me great...",
+          "answers": [
+            "Sip",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "In Enbarr, I was...",
+          "answers": [
+            "Sigh",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I am requiring...",
+          "answers": [
+            "Laugh",
+            "Admonish"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raphael",
+      "house": "Golden Deer",
+      "sourceHouse": "Golden Deer",
+      "pdfHouse": "Golden Deer",
+      "recruitment": {
+        "class": "Commoner",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 20 Strength and C in Heavy Armour",
+        "notes": null,
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Smoked Meat",
+        "Tasty Baked Treat",
+        "Training Weight"
+      ],
+      "lostItems": [
+        "Big Spoon",
+        "Burlap Sack of Roots",
+        "Wooden Button"
+      ],
+      "teas": [
+        "Almond Blend",
+        "Ginger Tea"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A strong battalion",
+        "A word of advice",
+        "Cats",
+        "Children at the market",
+        "Classes you might enjoy",
+        "Close calls",
+        "Cooking mishaps",
+        "Dining partners",
+        "Dreamy knights",
+        "Favorite sweets",
+        "Food in the dining hall",
+        "Gardening mishaps",
+        "Gifts you'd like to receive",
+        "I'm counting on you",
+        "Muscle growth",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Perfect recipes",
+        "Plans for the future",
+        "Potential training partners",
+        "School days",
+        "Shareable snacks",
+        "Someone you look up to",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The last battle",
+        "The opera",
+        "Things that bother you",
+        "Working together",
+        "You seem well",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "I gotta become...",
+          "answers": [
+            "Commend",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "No one else comes...",
+          "answers": [
+            "Laugh",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "Is there anything to eat...",
+          "answers": [
+            "Laugh",
+            "Commend",
+            "Admonish"
+          ]
+        },
+        {
+          "prompt": "I can't miss a single...",
+          "answers": [
+            "Nod",
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "My grandpa used to...",
+          "answers": [
+            "Laugh",
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "You're pretty strong...",
+          "answers": [
+            "Laugh",
+            "Disagree",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Wanna train together?",
+          "answers": [
+            "Nod",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I wouldn't have come here...",
+          "answers": [
+            "Nod",
+            "Sigh"
+          ]
+        },
+        {
+          "prompt": "You seem tired, Professor",
+          "answers": [
+            "Laugh",
+            "Disagree"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rhea",
+      "house": "Misc",
+      "sourceHouse": null,
+      "pdfHouse": "Misc",
+      "recruitment": {
+        "class": "Review needed",
+        "availableFrom": "Review needed",
+        "requirement": "No recruitment entry in supplied screenshot",
+        "notes": null,
+        "sourceStatus": "review-needed"
+      },
+      "gifts": [
+        "Goddess Statue",
+        "Landscape Painting"
+      ],
+      "lostItems": [],
+      "lostItemsNote": "none listed in this source",
+      "teas": [
+        "Crescent-Moon Tea",
+        "Angelica Tea",
+        "Chamomile"
+      ],
+      "topics": [
+        "Fodlan's future",
+        "Guessing someone's age",
+        "I'm counting on you",
+        "Thanks for everything"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "Have you grown accustomed...",
+          "answers": [
+            "Nod",
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "Have confidence...",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "I sense great potential in you...",
+          "answers": [
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "You are truly special...",
+          "answers": [
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "I would like you to be a pillar...",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "Being the archbiship can be lonely...",
+          "searchAliases": [
+            "Being the archbishop can be lonely..."
+          ],
+          "answers": [
+            "Sigh",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "I, too, like to spread my wings...",
+          "answers": [
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I do not have a friend...",
+          "answers": [
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "You are the only person...",
+          "answers": [
+            "Nod",
+            "Laugh",
+            "Blush"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seteth",
+      "house": "Church of Seiros",
+      "sourceHouse": "Church of Seiros",
+      "pdfHouse": "Misc",
+      "recruitment": {
+        "class": "Wyvern Rider",
+        "availableFrom": "Chapter 12",
+        "requirement": "Joins automatically",
+        "notes": "Unavailable if you choose to [spoiler] during Chapter 11.",
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Dapper Handkerchief",
+        "Fishing Float",
+        "The History of Fodlan"
+      ],
+      "lostItems": [
+        "Old Fishing Rod",
+        "Snapped Writing Quill",
+        "Unfinished Fable"
+      ],
+      "teas": [
+        "Four-Spice Blend",
+        "Ginger Tea",
+        "Angelica Tea"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A strong battalion",
+        "A word of advice",
+        "Books you've read recently",
+        "Capable comrades",
+        "Children at the market",
+        "Classes you might enjoy",
+        "Close calls",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Flayn",
+        "Fodlan's future",
+        "Guessing someone's age",
+        "Hopes for your future",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Likable allies",
+        "Mighty weapons",
+        "Monastery rules",
+        "Monastery security",
+        "Our first meeting",
+        "Relaxing at the sauna",
+        "Reliable allies",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The ideal professor",
+        "The last battle",
+        "The library's collection",
+        "The opera",
+        "Things that bother you",
+        "Working hours for guards",
+        "Working together",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "I wonder why the archbishop...",
+          "answers": [
+            "Chat",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I do hope you will inform...",
+          "answers": [
+            "Nod"
+          ]
+        },
+        {
+          "prompt": "I know I speak harshly...",
+          "answers": [
+            "Nod",
+            "Sigh"
+          ]
+        },
+        {
+          "prompt": "You have become very special...",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "The more you learn about...",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "If there is anything I can do...",
+          "answers": [
+            "Nod",
+            "Laugh",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "When my own thoughts grow...",
+          "answers": [
+            "Nod",
+            "Laugh"
+          ]
+        },
+        {
+          "prompt": "Whatever happens, know I am...",
+          "answers": [
+            "Chat",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I put up a stiff front with...",
+          "answers": [
+            "Nod",
+            "Laugh",
+            "Blush"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shamir",
+      "house": "Church of Seiros",
+      "sourceHouse": "Church of Seiros",
+      "pdfHouse": "Misc",
+      "recruitment": {
+        "class": "Sniper",
+        "availableFrom": "Chapter 6",
+        "requirement": "Need to be Level 15",
+        "notes": "If leading the Black Eagles, automatically joins during Chapter 12 if you [spoiler] during Chapter 11.",
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Book of Sheet Music",
+        "Coffee Beans",
+        "Exotic Spices",
+        "Hunting Dagger"
+      ],
+      "lostItems": [
+        "Animal Bone Dice",
+        "Bundle of Dry Hemp",
+        "Centipede Picture"
+      ],
+      "teas": [
+        "Crescent-Moon Tea",
+        "Chamomile"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A new gambit",
+        "A place you'd like to visit",
+        "A strong battalion",
+        "Capable comrades",
+        "Cats",
+        "Children at the market",
+        "Classes you might enjoy",
+        "Close calls",
+        "Equipment upkeep",
+        "Evaluating allies",
+        "Food in the dining hall",
+        "Gifts you'd like to receive",
+        "Hopes for your future",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Mighty weapons",
+        "Monastery security",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Plans for the future",
+        "Potential training partners",
+        "Reliable allies",
+        "Shareable snacks",
+        "Strange fish in the pond",
+        "Survival skills",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The courtyard couple",
+        "The ideal relationship",
+        "The last battle",
+        "The view from the bridge",
+        "Working together",
+        "You're doing great work",
+        "Your ambitions"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "I'm not much for conversation",
+          "answers": [
+            "Disagree"
+          ]
+        },
+        {
+          "prompt": "Heh",
+          "answers": [
+            "Disagree",
+            "Sip",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "The Sword of the Creator...",
+          "answers": [
+            "Nod",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "As far as mercenaries go...",
+          "answers": [
+            "Laugh",
+            "Commend"
+          ]
+        },
+        {
+          "prompt": "I enjoy a lack of conversation",
+          "answers": [
+            "Nod",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I look forward to the next battle",
+          "answers": [
+            "Nod",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "I apologize for what I said before",
+          "answers": [
+            "Disagree",
+            "Sigh"
+          ]
+        },
+        {
+          "prompt": "This room... It suits you",
+          "answers": [
+            "Nod",
+            "Blush"
+          ]
+        },
+        {
+          "prompt": "Dagda is far",
+          "answers": [
+            "Admonish",
+            "Chat",
+            "Praise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sylvain",
+      "house": "Blue Lions",
+      "sourceHouse": "Blue Lions",
+      "pdfHouse": "Blue Lions",
+      "recruitment": {
+        "class": "Noble",
+        "availableFrom": "Chapter 2",
+        "requirement": "Need 25 Charm and C in Reason",
+        "notes": "If protagonist is female, automatically joins.",
+        "sourceStatus": "verified"
+      },
+      "gifts": [
+        "Board Game",
+        "Dapper Handkerchief",
+        "Landscape Painting"
+      ],
+      "lostItems": [
+        "Crumpled Love Letter",
+        "The History of Sreng",
+        "Unused Lipstick"
+      ],
+      "teas": [
+        "Bergamot",
+        "Seiros Tea"
+      ],
+      "topics": [
+        "A dinner invitation",
+        "A place you'd like to visit",
+        "Books you've read recently",
+        "Capable comrades",
+        "Classes you might enjoy",
+        "Close calls",
+        "Cooking mishaps",
+        "Cute monks",
+        "Dating escapades",
+        "Dining partners",
+        "Evaluating allies",
+        "Exploring the monastery",
+        "Fashion",
+        "Favorite sweets",
+        "First crushes",
+        "Food in the dining hall",
+        "Gifts you'd like to receive",
+        "Guessing someone's age",
+        "Heart-racing memories",
+        "Hopes for your future",
+        "I heard some gossip",
+        "I'm counting on you",
+        "Likable allies",
+        "Monastery mysteries",
+        "Our first meeting",
+        "Overcoming weaknesses",
+        "Past laughs",
+        "Perfect recipes",
+        "Plans for the future",
+        "Potential training partners",
+        "Relaxing at the sauna",
+        "Reliable allies",
+        "School days",
+        "School uniforms",
+        "Shareable snacks",
+        "Strange fish in the pond",
+        "Tell me about yourself",
+        "Thanks for everything",
+        "The courtyard couple",
+        "The ideal relationship",
+        "The library's collection",
+        "The opera",
+        "The view from the bridge",
+        "Things that bother you",
+        "Things you find romantic",
+        "Working together",
+        "You seem different",
+        "You seem well",
+        "You're doing great work"
+      ],
+      "finalResponses": [
+        {
+          "prompt": "Everyone has their own...",
+          "answers": [
+            "Commend",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Opera, art, literature...",
+          "answers": [
+            "Commend",
+            "Chat"
+          ]
+        },
+        {
+          "prompt": "You're already really stoic",
+          "answers": [
+            "Chat",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I was thinking I...",
+          "answers": [
+            "Sip",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Sometimes, I'm surprised...",
+          "answers": [
+            "Chat",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "Somebody gave me...",
+          "answers": [
+            "Nod",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I feel like you can...",
+          "answers": [
+            "Disagree",
+            "Sip"
+          ]
+        },
+        {
+          "prompt": "I'm in a bit of trouble...",
+          "answers": [
+            "Nod",
+            "Commend",
+            "Praise"
+          ]
+        },
+        {
+          "prompt": "You are really curious...",
+          "answers": [
+            "Laugh",
+            "Blush"
+          ]
+        }
+      ]
+    }
+  ],
+  "questionAnswers": [
+    {
+      "question": "You know how sometimes an ordinary girl can be more popular than an exceptional beauty?",
+      "answer": "Fancy meals are boring if you eat them every day.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "When one professor lectures many students, some will inevitably have trouble keeping up, while others will get too far ahead in their studies.",
+      "answer": "Perhaps we should make lectures optional",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Such interesting ideas you seem to have, Professor, but tell me this: what would you do if you were given the task of teaching a subject than you yourself did not understand?",
+      "answer": "I’d take the time to study the subject before teaching it.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Pretty soon I’ll have eaten everything they have to offer in the dining hall.",
+      "answer": "You should just enjoy what you’ve got",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Um. Sorry, but you should probably just skip me.",
+      "answer": "You just did.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I am an avid arms collector.",
+      "answer": "Ask a blacksmith to teach you how to craft your own.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "When I take a lecture I’m not interested in, I get so...sleepy.",
+      "answer": "No need to fight it. You can’t help it.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I am having a question.",
+      "answer": "Try studying the movements of others for improvement.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Lectures about strategy or reason require so much focus, I end up absolutely famished!",
+      "answer": "Bring along a snack, just in case.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I’m...kind of terrified to walk the monastery grounds at night.",
+      "answer": "Think of it as training for night marches.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I enjoy a good ghost story, but I’ve never seen a ghost in real life.",
+      "answer": "Maybe you need a ritual to summon one.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Art has never been my forte.",
+      "answer": "Don’t worry about the end result. Just keep practicing.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Magic is not my forte.",
+      "answer": "Knowing magic will make you a stronger swordsman.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Though I have served His Highness for four years, he has eluded my every attempt to learn his favorite foods.",
+      "answer": "Maybe he just likes everything.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I’ve been trying to win the heart of this girl, but none of the fancy gifts or sweet things I tell her have worked.",
+      "answer": "Stay away for a while so she starts to miss you.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "No matter the weapon, it cannot be wielded properly without ample strength and stamina, regardless of the skills one may possess.",
+      "answer": "Try focusing on one skill at a time, at least for a while.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "That was a fascinating lecture, but now my brain is fried.",
+      "answer": "Try going for a stroll around the monastery.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "There’s so much to do and never enough time in which to do it.",
+      "answer": "Sleeping when you’re tired is best for you.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "The ladies have been giving me the cold shoulder, of late, I believe it is because they are intimidated by my noble presence.",
+      "answer": "Sounds like it’s their problem, not yours.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I just wanna eat meat and fish, but everyone in the dining hall says I gotta eat vegetables too!",
+      "answer": "Eating vegetables will help your muscles grow.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I don’t care about being pretty or anything, but it bothers me that some people don’t even realize I’m a girl.",
+      "answer": "They’re wrong, pay them no mind",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Um, excuse me… Can you help me?",
+      "answer": "You might be right. You should be careful.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I hate cleaning my room.",
+      "answer": "Ask somebody who’s good at cleaning.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I’m not very good at sharing my opinion.",
+      "answer": "They’ll appreciate your opinion. Let yourself be heard.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "When I ask them to take part in my experiments, even the most industrious students run away from me.",
+      "answer": "Make the \"experiment\" a \"job\" and pay them handsomely.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Some people hate spiders or centipedes, but they have no strong feelings towards flies or crickets.",
+      "answer": "They may all be bugs, but they’re such different species.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Hey. Maybe you can answer a question I’ve had for a while now…",
+      "answer": "Men have unrealistic expectations",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "As a member of the knights, I sometimes travel by ship for my missions.",
+      "answer": "Medicine and magic should help",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I want to be able to talk to males and make friends with them, but my brother always causes such a fuss when I do.",
+      "answer": "Do it when he’s not looking.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "One of your students keeps challenging me to fight him, but he has no idea how to wield a sword.",
+      "answer": "Drop a hint that he needs a new training partner.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I'm real happy here, but there's somebody who has up and decided to take pity on me.",
+      "answer": "Show them how happy you are working here.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Fodlan has been around for a really long time.",
+      "answer": "Investigate local folklore from different regions",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "A friend of mine's deep in debt, but every time he gets his hands on some money, he ends up giving it to someone he thinks needs it more.",
+      "answer": "Why not split the money in half?",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Classrooms are so noisy.",
+      "answer": "Cover your ears then.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I hope you will indulge me with a candid reply, Professor, so I can have a good laugh.",
+      "answer": "Only an official title.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Whenever I send money or food to my mother, she insists she doesn't need any of it.",
+      "answer": "Deliver them personally",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I heard rumors about ghosts roaming the monastery….",
+      "answer": "Let’s bring more candles to the halls to brighten things up.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "People call Captain Jeralt the Blade Breaker.",
+      "answer": "The Executioner",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I prefer to use stealth tactics to assassinate my foes on the battlefield, but you take a different approach.",
+      "answer": "Those tactics don’t give the enemy a chance to surrender.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "The weak-willed care little for how they are governed, but lady Edelgard wishes to open their eyes.",
+      "answer": "The only way to help them is to educate them.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "As I am fighting more, my arrows are decreasing in quality.",
+      "answer": "New bowstrings could help you shoot with more force.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I sometimes find books written in languages I’ve never seen before.",
+      "answer": "Piece things together using linguistic clues.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I want to knit an animal doll for someone, but I’m not sure what kind to make.",
+      "answer": "Why not make one of each?",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Hey, Professor! I think I’m ready…",
+      "answer": "You actually have one, but it’s too scary to say out loud.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "The anniversary of Jeralt’s death is coming up.",
+      "answer": "The best bottle of booze you can find.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I’ve had this sword for a long time.",
+      "answer": "Get the new weapon. Give yourself time to train with it.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Death is an inevitable result of military conflict.",
+      "answer": "Adopt new tactics that increase survivability.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I know this is highly unlikely, but on the off chance that Rhea surrenders to my terms, what should I do?",
+      "answer": "Strip her of her power so she can’t interfere in politics.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "All this savagery, day after day, is depressing.",
+      "answer": "Why don’t you ask a girl out?",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Some of the children were admiring a painting of mine.",
+      "answer": "Woodland creatures.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I haven’t been able to see my brother and sister lately, so I’m sending them gifts instead.",
+      "answer": "Maybe you should send him some books.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Songs are so powerless, Professor.",
+      "answer": "If we can achieve peace, those songs won’t be powerless.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I think alcohol consumption increases as we continue to fight, day after day after day after…",
+      "answer": "Focus on your own intake. I'll worry about everyone else.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "When I do nothing but fight, my spirits falter and I lose the will to keep things tidy.",
+      "answer": "Take a short break to do something that raises your spirits.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Fishing is what truly calms me, but it is time-consuming.",
+      "answer": "Write a story about someone fishing",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I don’t think there’s much difference between Almyra and Fodlan.",
+      "answer": "It’s prejudice towards unknown places, nothing more.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I have a tactical question, Professor.",
+      "answer": "Push forward. Punch a hold in their formation.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Just thinking about how, even now, someone out there is fighting for something, I just can’t seem to sit still, even during my breaks.",
+      "answer": "You could assist with my daily tasks, if you’d like",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Seeing the cathedral in such a run-down state makes me feel so sorry for the goddess…",
+      "answer": "Let’s plant flowers to make it more colorful",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Soon a day will come when we must all part ways.",
+      "answer": "The goddess will always protect everyone.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Those from northern Faerghus are used to the frigid cold.",
+      "answer": "Cooling off in a nearby river is always a good option.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Whenever I visit home, my brother yammers on and on about all the things I'm doing wrong.",
+      "answer": "Yammer back at him! See how he likes it!",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I had to leave my grandpa in charge of taking care of my little sis while I'm away.",
+      "answer": "A tough-looking hat.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Times are hard...",
+      "answer": "Maybe the cart will open back up if the war ends.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Considering the current situation and the forces at our command, we will need to rely on mercenaries,",
+      "answer": "Mercenary or not, some people will betray your trust",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I have always been confident in my exceptional skill, but... lately I will admit I have experienced some minor doubts.",
+      "answer": "Remember all you've done. Trust that you've been useful.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I desperately want to travel to some of the places my mother and I spent time in, but I'm not really allowed to leave the monastery walls for such things.",
+      "answer": "Close your eyes and pretend she is with you.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I've been thinking it would be nice to throw a big feast for everyone, but we're lacking in surplus supplies.",
+      "answer": "Catch some fish from the river",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Soldiers have been unhappy with the food lately, and the complaints have been bad for morale.",
+      "answer": "Maybe we should hold cooking classes",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "A town I've done business in before has been deeply affected by the war.",
+      "answer": "Give it away with a deal for them to repay later.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I consider it my duty to gift the world with innovations in magic, but my designs rarely have utility in battle.",
+      "answer": "Practice is the path to improvement. Keep experimenting.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Fighting doesn't usually wear me out, but five years is a real long time.",
+      "answer": "Agreed",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I like to wake at dawn and sleep at dusk, but being in an army breaks my routine.",
+      "answer": "Pace yourself the best you can",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "It feels odd to be asking you questions as though I were your student, but I'm wondering...",
+      "answer": "Impartially analyze the strength of both sides",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Let me just ask you straight.",
+      "answer": "The will to fight for those who can’t protect themselves.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I’ve looked at the notes in this box before, and it seems like everyone’s always worried and complaining about stuff!",
+      "answer": "Worry often leads to growth",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Meat and vegetables are both delicious, but some people complain about not liking one or the other.",
+      "answer": "A well-prepared meal should be enjoyed by all",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I've never been very good at arithmetic, but I can see how it would be a great skill to have when negotiating with merchants.",
+      "answer": "Ask a friend to instruct you",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I wonder if I'll ever find a partner who understands I don't mean any harm when I flirt with others.",
+      "answer": "You're bound to meet someone open-minded someday",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I don't like interfering in squabbles between noble brats, but the parents complain if I don't.",
+      "answer": "It could be entertaining to make the parents fight instead.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I often hear ridiculous rumors about ghosts appearing in the monastery.",
+      "answer": "You have nothing to worry about. There are no ghosts.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I typically decorate with red roses when I host a tea party but lately I am considering the virtues of variety.",
+      "answer": "White lilies are pleasant and calming.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I have some experience painting landscapes, and now I’d like to try my hand at a portraiture.",
+      "answer": "Manuela would be open to modeling for you.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I’m trying to read any book about reason I can get my hands on, but now and again, I’ll come across one that’s written in a foreign language.",
+      "answer": "You should start by studying the language.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "When I was in the greenhouse earlier, a female student fled from me as if in terror.",
+      "answer": "Perhaps you unintentionally scowled at her",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I’ve slept almost everywhere in the monastery, but lately I’ve been wanting to try sleeping outdoors.",
+      "answer": "A courtyard full of blooming flowers.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Nothing surpasses the Hraesvelg Treatise on War as a general study on strategy, but what book best covers local tactics?",
+      "answer": "Try reading Cichol’s General Treatise on Mercenaries.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "My fellow students have called me dour.",
+      "answer": "It can help settle prebattle nerves",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "If you feel overwhelmed by teaching, just ask me for help.",
+      "answer": "I’ll let you know if I have any concerns.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Despite my appearance, I have long wished to be a Pegasus Knight that I may indulge in the lofty view.",
+      "answer": "Because heights make you uneasy.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I'm not good at talking to others.",
+      "answer": "Try pretending the person you're talking to is a horse.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I am occasionally asked to attend tea parties, but in truth, I do not care for hot beverages.",
+      "answer": "You should just be honest with your host.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "When I get into a Rhythm while cleaning, I always end up singing a song that I make up on the spot.",
+      "answer": "I bet people really enjoy your songs",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I found a wonderful painting at a shop in town.",
+      "answer": "You should show it to Sylvain.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I am an only child.",
+      "answer": "Relax. You can think it over before you graduate.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I have always despised the heat, even as a child.",
+      "answer": "Look for clothing and armor which breathe better.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "There are many citizens of the Empire who are currently in despair.",
+      "answer": "You would do well as a ruler, Ferdinand.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "It's my turn to clean, but I'm feeling under the weather.",
+      "answer": "Mercedes might be willing to help.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "What can I do to ensure than an independently-minded young woman does not fall into harm's way?",
+      "answer": "Keep an eye on her from a distance.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Life would be so much easier if no one had to talk face-to-face.",
+      "answer": "Occasional human interaction is good for you.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "You can always put on more clothing when it's cold, but you can only remove so many layers in the heat.",
+      "answer": "Focus on reading to occupy your mind.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I am always looking to assist His Highness, but sometimes I find myself at a loss.",
+      "answer": "Guard him with your life.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "There's a new place in town I hear has some really tasty food.",
+      "answer": "I would be happy to join you",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Song and dance live on in our memories, but there's no real record of them.",
+      "answer": "I'm sure you'll live on in someone's heart.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Whenever I go for a walk, I get this strange feeling that someone is watching me.",
+      "answer": "The goddess is watching from on high",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I often overhear people commenting about how strange I am.",
+      "answer": "Just follow your own path and don't worry about them.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "The library is a place I favor, but I am having a problem.",
+      "answer": "You should add to the Traveler’s Journal",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Being a bit older than everyone else, I want the others to rely on me like an older sister.",
+      "answer": "Don't worry, you already are.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I usually enjoy sweets, but the traditional cakes from Enbarr are a bit much for my taste.",
+      "answer": "Who cares traditions are meant to be broken.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "It's been a turbulent year.",
+      "answer": "Steel yourself by spending some quiet time alone.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "There is a person with whom I do not get along.",
+      "answer": "Try treating them like you would a friend.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "You know, I don't even care when people say I'm short.",
+      "answer": "Getting plenty of sleep might help",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I am trying to settle on a gift for a certain young lady who has experienced tough times as of late.",
+      "answer": "An academic textbook",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I want to be able to enjoy my hobbies, but there's not enough time when I have to wait for everyone to go to bed and clear out of the common areas.",
+      "answer": "I'm so sorry. That sounds like an impossible situation.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Even if I find love, I won't be able to live without money.",
+      "answer": "Love and money aren’t mutually exclusive. Strive for both.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Everyone treats me like a child.",
+      "answer": "You shouldn't feel pressured to act older than you are.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "(There's just a drawing of what looks like a student throwing trash on the ground.)",
+      "answer": "Let's add trash bins around the monastery.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I'd like to borrow a book from the library, but there are so many to choose from that I can't decide.",
+      "answer": "A History of the Founding of Faerghus",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I have as many worries as anyone else, but I must always feign dauntlessness.",
+      "answer": "Find time to relax every now and then",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Classroom learning isn't enough to become a strong knight!",
+      "answer": "Dimitri would be a good resource.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Flayn is an interesting young lady, but keep your distance.",
+      "answer": "A hedge between keeps friendships green.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "If I told you I was searching for someone who might like to share a cup of tea with an elegant noble, whose name would come to mind?",
+      "answer": "Ferdinand would be good company",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Lately I feel myself growing tired and out of practice.",
+      "answer": "What about Dorothea?",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Words cannot express my disgust with the students here.",
+      "answer": "You should spar with them",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "There are as many men in this world as stars in the sky, but you meet so few good men during your time on this planet.",
+      "answer": "Man or no man, lots of people care about you.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I have great love for the sea, but Garreg Mach has too much distance from it.",
+      "answer": "You should visit a sea to the south",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I feel like the tough fighters who become legends mostly use swords and lances.",
+      "answer": "You should fight with the weapon the best suits you",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I try to hold back when swinging a weapon, but sometimes I misjudge my own strength.",
+      "answer": "Take care to repair weapons in between training sessions.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "It’s standard practice for a general not to stand on the front lines.",
+      "answer": "The “standard practice” isn’t always the best practice.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I see it all the time.",
+      "answer": "That sounds like the logic of a schemer",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "There’s someone whose Crest I wish to study.",
+      "answer": "Nothing beats sincerity",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I’m not good at cleaning up.",
+      "answer": "Cleaning is easy when you have a plan of attack",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "A professor’s job seems so repetitive.",
+      "answer": "I’m too busy to be bored",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I wish to make new friends, but my brother always interferes.",
+      "answer": "I’ll persuade him to stop",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "There’s someone I just can’t seem to beat.",
+      "answer": "”Quick and easy” never works",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "(There’s just a drawing of what looks like a broken vase.)",
+      "answer": "If you broke a vase, you should apologize to the owner.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I’m supposed to write a letter to my brother to let him know how I’m doing.",
+      "answer": "Why not tell him about your friends?",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "The tea here does absolutely nothing for me.",
+      "answer": "Lorenz would be a good source.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I am more than capable of protecting myself from ruffians, but those around me tend to worry, and so I am often denied the pleasure of a private stroll.",
+      "answer": "You're too important, so I'm afraid it can't be helped.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I want to make somebody change his boorish behavior, but he doesn’t seem to care no matter how much I urge him to reconsider his actions.",
+      "answer": "It’s probably time for your professor to step in.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I’m hesitant to invite a girl to my room in the middle of the night with You Know Who living right next door.",
+      "answer": "Maybe I’ll rethink the room assignments.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I want to get better at cooking, but I don’t know where to start.",
+      "answer": "You should cook with Ashe",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I've reunited with my daughter after years of being apart, but I'm the one who left her in the first place.",
+      "answer": "Just love her and treat her with kindness.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "When I see the students enthusiastically eating together in the dining hall, I sometimes wish to join them.",
+      "answer": "I'm sure the students would be happy to share a meal.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Everyone seems to believe I only ever think about the buying and selling of things, but I'm very multifaceted!",
+      "answer": "Worrying is a waste of time, and time is money!",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "The only physicians willing to work underground are ones who charge exorbitant amounts for their services.",
+      "answer": "Ask the church for help",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "All my problems boil down to not having enough gold.",
+      "answer": "Next time you've got gold, I'll help you decide.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "So I write my problems here, and you fix them for me?",
+      "answer": "You could at least write me a good joke",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "I could say I have no concerns, but of course I would be lying.",
+      "answer": "That may actually be too much, even for you.",
+      "timing": "Pre-Time Skip"
+    },
+    {
+      "question": "Growing out my hair was not intentional.",
+      "answer": "It looks good on you.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "What’s the difference between killing someone and calling for their death instead?",
+      "answer": "Like all things, it’s about context and perspective.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I fear that I will not be able to achieve my dream within my lifetime.",
+      "answer": "It will be easy after we rebuild the Officer's Academy.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I hope to improve my riding skills before our next battle.",
+      "answer": "Start by befriending the horse you’ll be riding.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "People used to believe the goddess once fell here from the Blue Sea Star, but according to astronomical research, the light from that star takes millions of years to reach us.",
+      "answer": "Lies about the goddess abound.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "No joke, I lost the book where I write all my puns.",
+      "answer": "You’re probably just not searching the write places.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I understand the risk of fighting on the front lines, but I simply must be out there to lead my troops.",
+      "answer": "It’s said that the best defense is a good offense.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "My dream of becoming a proper knight still feels so far off.",
+      "answer": "Be honest and stick to your convictions",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Every day is filled with the harshness of war.",
+      "answer": "Everyone finds solace in different ways.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "All we do is battle.",
+      "answer": "Good idea, I’ll see what I can do.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Garreg Mach is surrounded by the abundance of nature, but securing provisions during times of warring can still be difficult.",
+      "answer": "Yes, this place is quite different than Brigid.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Nobles must never lose their composure.",
+      "answer": "In battle, survival is all that matters.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I thought being a noble meant having some sway in life.",
+      "answer": "One day everyone will listen to you...and leave you alone.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I appreciate ruined buildings.",
+      "answer": "They remind us that life is impermanent as well.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "What are all these knight lovers talking about when they go on and on about chivalry?",
+      "answer": "They’re referring to strength and courage.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I have a burning ambition, but making it come true would mean betraying my parent’s wishes.",
+      "answer": "Nothing will change unless you are honest with them.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "After the war, there will be fewer opportunities to fight.",
+      "answer": "Strive to become the best in all of Fodlan.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Everyone who hears the songs I make up laughs and says they’re funny, but they’re not supposed to be humorous!",
+      "answer": "Don’t fret. They’re great lyrics that are unforgettable.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I want to be helpful, but I lack the self-confidence to do so.",
+      "answer": "You should stay, you’re more helpful than you realize.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Sometimes I make really, really big mistakes.",
+      "answer": "Just stay calm and be aware of your surroundings.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "In the past, I would nearly pass out if I got splattered by an enemy’s blood.",
+      "answer": "It’s natural to feel repelled by the horrors of war.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I have concerns about allowing a young woman still on the cusp of adulthood to spend time alone with members of the opposite sex.",
+      "answer": "Try to prevent it as much as you can.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "My dear friend has been behaving strangely.",
+      "answer": "You should seek out an expert opinion, just to be safe.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I really start craving sweets when I am tired or stressed out.",
+      "answer": "Check the library for a simple, traditional recipe.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I wonder if there will be a day when both the monastery and Faerghus are restored to their former glory.",
+      "answer": "That day will come. We'll make sure of it.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Isn't there a way to turn withered, barren land into soil that is rich and abundant with crops?",
+      "answer": "Check the library for books on unique farming techniques.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "In an attempt to clean my room, I tried to throw out the things I no longer need, but I can't bring myself to do it.",
+      "answer": "Meeting new people helps make new memories",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I've recently begun to think that ghosts may not exist.",
+      "answer": "It could have been some kind of magic.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "How can I convince someone who is working himself sick to take a break?",
+      "answer": "Invite him to sit down to a relaxing meal",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "People always say that my muscles are huge, but I'm still not satisfied!",
+      "answer": "Huge muscles are a symbol of strength.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I used to think it foolish to cover one's face in battle with a mask or helmet, but it actually may not be that bad.",
+      "answer": "Never turn a blind eye to your own actions.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I trip all the time, but what if I trip on the battlefield?",
+      "answer": "Focus on what you'll do if the enemy trips instead.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "My hair's longer than it used to be.",
+      "answer": "It looks good long.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I'm weary from this ceaseless fighting.",
+      "answer": "You will one day, I'm sure of it.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Someone I care about has been working so hard that I'm worried they might collapse from exhaustion.",
+      "answer": "A nice meal shows support and provides a chance to relax.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Perhaps it is because I am operating with half my normal vision now, but desk work strains my eye terribly.",
+      "answer": "Have someone acquire eye drops for you.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I don't have time to leisurely wait for the future.",
+      "answer": "The steady approach is actually the fastest, in the end.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I am interested in cooking, but I can't seem to get any better at it.",
+      "answer": "Keep practicing and you'll get the hang of it.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I'm so busy working that I don't have time to train.",
+      "answer": "Just do what you can and try your best.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I hate having to be sneaky and stay quiet when an enemy is in my line of sight.",
+      "answer": "You'll get better at it if you train.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "We've been without Lady Rhea for more than five years.",
+      "answer": "Don't worry. We will find her and rescue her.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "If someone is having trouble falling asleep, you could sing them a lullaby, but you can't really do that for yourself.",
+      "answer": "If you exercise before bed, that's sure to tire you out.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I wrote a letter to my wife back home, but now I can't bring myself to send it.",
+      "answer": "I'm sure hearing from you would make her happy.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Some structures on the battlefield are centuries old.",
+      "answer": "You can immortalize them in your art.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I think a change of pace is necessary every so often.",
+      "answer": "You should sample food at various restaurants",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "A prominent noble ought to possess a few quality pieces of art.",
+      "answer": "A magnificent landscape",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I fear falling asleep at night.",
+      "answer": "We won't allow that to happen.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Some people want to make a difference by fighting on the front lines, but there are those of us who want to provide support from the back.",
+      "answer": "As long as everyone does their part, I'm happy.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I'm writing a letter to my little sis, and I want to send her a present, but I never know what to send.",
+      "answer": "Send her some tasty treats.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Sometimes I think that living like I do, single but surrounded by talented youths, might not be such a lonely life after all.",
+      "answer": "If you do get lonely, I can lend you an ear.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "A subordinate is down because they failed a recon mission.",
+      "answer": "Say that only the living can learn from their mistakes.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I have been searching for an ideal wife with whom to start a family for years now.",
+      "answer": "After the war, such pursuits will be much easier.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I've always hated exercising and avoided training, but now I'm afraid that I may be holding everyone back.",
+      "answer": "You can boost their morale with a delicious meal.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I've lived in the slums for a long time, and I saw how the people there suffered from poverty and the ravages of war.",
+      "answer": "Strive to save Fodlan from the ground up.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I'd like to have a duel with you where we're both giving it our all, but I suspect if we crossed blades without holding anything back, one of us would end up dead.",
+      "answer": "Let's just try to survive this war for now.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I am composing a record of our battles, for posterity's sake.",
+      "answer": "The battle in the underground chamber.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "It is, of course, necessary to keep one's quarters nice and tidy.",
+      "answer": "A messy battlefield helps one appreciate a clean room.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "My friend's birthday is coming up, and I want to make her a gift.",
+      "answer": "I'm sure she'd be happy to get either one.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Animals have never been fond of me.",
+      "answer": "If it gives you more confidence, hide behind a helmet",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "If there were three villages with no watering holes, and one well was dug along the border between the villages, what do you think would become of the people there?",
+      "answer": "A war would likely start over dominion of the well.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "How can I create a world where everyone is on equal footing, regardless of their place of birth, their bloodline, or whether they have a Crest?",
+      "answer": "Lead by example, and show the world what it's capable of",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I hate that I couldn't protect Lady Rhea five year ago.",
+      "searchAliases": [
+        "I hate that I couldn't protect Lady Rhea five years ago."
+      ],
+      "answer": "Keep at it. You're getting stronger all the time.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "I have attained great skill at writing this language.",
+      "answer": "There's no trick, just keep practicing.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Once, as a boy, I struck my father.",
+      "answer": "That's just how life is sometimes.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "When I was a child, I feared such trivial things as divine punishment and grudges held by the dead.",
+      "answer": "In truth, it's reality that is most frightening.",
+      "timing": "Post-Time Skip"
+    },
+    {
+      "question": "Fishing is what truly calms me, but it is time-consuming.",
+      "answer": "Write a story about fishing.",
+      "timing": "Post-Time Skip"
+    }
+  ]
+}
