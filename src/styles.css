@@ -753,6 +753,10 @@ h3 {
   display: none;
 }
 
+.house-filter {
+  justify-content: center;
+}
+
 .character-grid,
 .browse-list {
   grid-template-columns: 1fr;
