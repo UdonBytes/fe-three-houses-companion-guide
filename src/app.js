@@ -639,7 +639,7 @@ function createConversationsPage() {
     "./src/assets/conversations-banner.png",
     "Conversations",
   ));
-  page.append(createPrimarySearch(), createGlobalResults());
+  page.append(createPrimarySearch(), createHouseFilter(), createGlobalResults());
   page.append(createConversationBrowse());
   return page;
 }
@@ -647,8 +647,11 @@ function createConversationsPage() {
 function createConversationBrowse() {
   if (state.query.trim()) return el("div", { className: "browse-block", "data-browse-kind": "conversations" });
 
+  const filtered = characters.filter(
+    (character) => state.characterFilter === "All" || displayHouse(character) === state.characterFilter,
+  );
   const grid = el("div", { className: "character-grid", "data-browse-kind": "conversations" });
-  characters.forEach((character) => {
+  filtered.forEach((character) => {
     grid.append(
       el("article", {
         className: `card conversation-card clickable-card house-${slug(character.house)}`,

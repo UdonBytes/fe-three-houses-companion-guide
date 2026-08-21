@@ -27,14 +27,6 @@ export const reviewNeeded = [
   },
   {
     status: "review-needed",
-    area: "Recruitment",
-    source: "Uploaded Serenes Forest Recruitment screenshot and pasted PDF gift/lost-item chunk",
-    reason:
-      "Rhea appears in the pasted PDF gift/lost-item data but not in the recruitment screenshot.",
-    affects: ["Rhea recruitment"],
-  },
-  {
-    status: "review-needed",
     area: "Recruitment screenshot",
     source: "Uploaded Serenes Forest Recruitment screenshot",
     reason:

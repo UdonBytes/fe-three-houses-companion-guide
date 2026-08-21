@@ -1093,8 +1093,8 @@ export const characters = [
     recruitment: {
       class: "Fortress Knight",
       availableFrom: "Chapter 13",
-      requirement: "Automatically from Turn 3",
-      notes: "Blue Lions only.",
+      requirement: "Blue Lions path. Automatically joins in Chapter 13 (Turn 3)",
+      notes: null,
       sourceStatus: "verified",
     },
     gifts: ["Ceremonial Sword", "Fishing Float", "Goddess Statue"],
@@ -2151,9 +2151,9 @@ export const characters = [
     recruitment: {
       class: "Review needed",
       availableFrom: "Review needed",
-      requirement: "No recruitment entry in supplied screenshot",
+      requirement: "Cannot be recruited",
       notes: null,
-      sourceStatus: "review-needed",
+      sourceStatus: "verified",
     },
     gifts: ["Goddess Statue", "Landscape Painting"],
     lostItems: [],
