@@ -673,7 +673,10 @@ h3 {
 }
 
 .gift-watering-can::after {
-  background-position-x: 64.5%;
+  right: calc(5% - 2px);
+  width: min(29%, 140px);
+  background-size: 460% auto;
+  background-position-x: 67%;
 }
 
 .chip-row,
