@@ -400,12 +400,13 @@ function characterSearchText(character) {
 
 function createHouseFilter() {
   const houses = ["All", "Black Eagles", "Blue Lions", "Golden Deer", "Church / Misc"];
-  const controls = el("div", { className: "segmented", role: "group", "aria-label": "Filter by house" });
+  const controls = el("div", { className: "segmented house-filter", role: "group", "aria-label": "Filter by house" });
   houses.forEach((house) => {
+    const shortLabel = house === "Church / Misc" ? "Misc" : house;
     controls.append(
       el("button", {
         className: state.characterFilter === house ? "selected" : "",
-        textContent: house,
+        "aria-label": house,
         onclick: (event) => {
           state.characterFilter = house;
           if (state.query.trim()) {
@@ -416,7 +417,10 @@ function createHouseFilter() {
             render();
           }
         },
-      }),
+      }, [
+        el("span", { className: "full-label", textContent: house }),
+        el("span", { className: "short-label", textContent: shortLabel }),
+      ]),
     );
   });
   return controls;
